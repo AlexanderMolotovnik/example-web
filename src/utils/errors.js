@@ -1,0 +1,7 @@
+export const emailRequired = 'Email cannot be empty'
+export const emailValidate = 'Incorrect email format'
+export const passwordRequired = 'Password cannot be empty'
+export const passwordConfirmationRequired = 'Confirm password cannot be empty'
+export const passwordsMatch = 'Passwords do not match'
+export const required = 'Required'
+export const phoneFormat = 'Incorrect phone format'
