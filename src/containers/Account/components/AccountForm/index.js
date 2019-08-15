@@ -3,7 +3,7 @@ import { Form, Field } from 'react-final-form'
 import { Grid } from '@material-ui/core'
 import Button from '@material-ui/core/Button'
 import { InputField, PhoneMask } from 'formAdapters/Input'
-import Box from 'components/CustomBox'
+import Box from 'components/Box'
 import validate from './validate'
 
 const AccountForm = ({ accountFormSubmit, initialValues }) => (
